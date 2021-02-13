@@ -1,9 +1,11 @@
 {
-    "name": "Editor",
+    "name": "MRTKShadersOnly.Editor",
     "references": [
         "GUID:0acc523941302664db1f4e527237feb3"
     ],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
